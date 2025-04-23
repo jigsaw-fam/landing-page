@@ -6,3 +6,7 @@ body {
   background-attachment: fixed;
   background-color: #FBEE00;
 }
+.links .discord {
+  height: 55px;
+  margin-right: 5px;
+}
